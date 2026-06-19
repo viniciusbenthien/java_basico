@@ -9,6 +9,7 @@ public class exercicio2 {
         System.out.println("Primeiro: " + v[0]);
         System.out.println("Ùltimo: " + v[v.length - 1]);
         System.out.println("Central: " + v[v.length / 2]);
+        System.out.println("teste");
 
 
 
